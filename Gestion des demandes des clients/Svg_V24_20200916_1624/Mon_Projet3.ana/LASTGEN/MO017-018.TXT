@@ -1,0 +1,4 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+demande		TAR	123	nouvelle taille enregistrement : 123
+demande	Type_demande	RUB+		Type_demande est une nouvelle rubrique
+Type_demande	Type_demande	NNR	Type	ATTENTION : la rubrique Type a pour nouveau nom Type_demande

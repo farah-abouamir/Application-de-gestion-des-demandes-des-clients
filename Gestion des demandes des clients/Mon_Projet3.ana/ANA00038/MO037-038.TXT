@@ -1,0 +1,8 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+client		TAR	223	nouvelle taille enregistrement : 223
+client	IDville	RUB+		IDville est une nouvelle clé
+client	IDtype_identité	RUB+		IDtype_identité est une nouvelle clé
+ville		NFI		nouveau fichier
+type_identité		NFI		nouveau fichier
+Contrainte_ville_client		NWL	ville (IDville) et client (IDville)	Nouvelle liaison entre les fichiers ville (IDville) et client (IDville)
+Contrainte_type_identité_client		NWL	type_identité (IDtype_identité) et client (IDtype_identité)	Nouvelle liaison entre les fichiers type_identité (IDtype_identité) et client (IDtype_identité)

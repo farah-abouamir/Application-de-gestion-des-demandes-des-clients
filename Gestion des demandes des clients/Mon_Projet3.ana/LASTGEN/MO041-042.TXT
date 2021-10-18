@@ -1,0 +1,13 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+demande		TAR	131	nouvelle taille enregistrement : 131
+demande	Montant	RUB-		la rubrique Montant est supprimée
+demande	IDRéglement	RUB-		la rubrique IDRéglement est supprimée
+Réglement		FIC-	Réglement	Fichier supprimé Réglement
+facilité		FIC-	facilité	Fichier supprimé facilité
+ModeRéglement		FIC-	ModeRéglement	Fichier supprimé ModeRéglement
+Etat		FIC-	Etat	Fichier supprimé Etat
+Contrainte_Réglement_demande		DEL	Réglement (IDRéglement) et demande (IDRéglement)	Liaison supprimée entre les fichiers Réglement (IDRéglement) et demande (IDRéglement)
+Contrainte_Réglement_facilité		DEL	Réglement (IDRéglement) et facilité (IDRéglement)	Liaison supprimée entre les fichiers Réglement (IDRéglement) et facilité (IDRéglement)
+Contrainte_demande_facilité		DEL	demande (IDdemande) et facilité (IDdemande)	Liaison supprimée entre les fichiers demande (IDdemande) et facilité (IDdemande)
+Contrainte_ModeRéglement_Réglement		DEL	ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)	Liaison supprimée entre les fichiers ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)
+Contrainte_Etat_facilité		DEL	Etat (IDEtat) et facilité (IDEtat)	Liaison supprimée entre les fichiers Etat (IDEtat) et facilité (IDEtat)

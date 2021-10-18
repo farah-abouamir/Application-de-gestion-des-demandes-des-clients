@@ -1,0 +1,11 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Contrainte_Réglement_demande		NWL	Réglement (IDRéglement) et demande (IDRéglement)	Nouvelle liaison entre les fichiers Réglement (IDRéglement) et demande (IDRéglement)
+Contrainte_Réglement_facilité		NWL	Réglement (IDRéglement) et facilité (IDRéglement)	Nouvelle liaison entre les fichiers Réglement (IDRéglement) et facilité (IDRéglement)
+Contrainte_demande_facilité		NWL	demande (IDdemande) et facilité (IDdemande)	Nouvelle liaison entre les fichiers demande (IDdemande) et facilité (IDdemande)
+Contrainte_ModeRéglement_Réglement		NWL	ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)	Nouvelle liaison entre les fichiers ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)
+Contrainte_Etat_facilité		NWL	Etat (IDEtat) et facilité (IDEtat)	Nouvelle liaison entre les fichiers Etat (IDEtat) et facilité (IDEtat)
+Contrainte_Réglement_demande		DEL	Réglement (IDRéglement) et demande (IDRéglement)	Liaison supprimée entre les fichiers Réglement (IDRéglement) et demande (IDRéglement)
+Contrainte_Réglement_facilité		DEL	Réglement (IDRéglement) et facilité (IDRéglement)	Liaison supprimée entre les fichiers Réglement (IDRéglement) et facilité (IDRéglement)
+Contrainte_demande_facilité		DEL	demande (IDdemande) et facilité (IDdemande)	Liaison supprimée entre les fichiers demande (IDdemande) et facilité (IDdemande)
+Contrainte_ModeRéglement_Réglement		DEL	ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)	Liaison supprimée entre les fichiers ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)
+Contrainte_Etat_facilité		DEL	Etat (IDEtat) et facilité (IDEtat)	Liaison supprimée entre les fichiers Etat (IDEtat) et facilité (IDEtat)

@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Etat		FIC-	Etat	Fichier supprimé Etat
+Contrainte_Etat_facilité		DEL	Etat (IDEtat) et facilité (IDEtat)	Liaison supprimée entre les fichiers Etat (IDEtat) et facilité (IDEtat)

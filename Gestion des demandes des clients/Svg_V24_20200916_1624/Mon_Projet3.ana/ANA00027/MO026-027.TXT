@@ -1,0 +1,15 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+demande		TAR	106	nouvelle taille enregistrement : 106
+demande	IDRéglement	RUB+		IDRéglement est une nouvelle clé
+Réglement		NNF*	ModeRéglement	nouveau nom Réglement
+Réglement		TAR	77	nouvelle taille enregistrement : 77
+Réglement	IDRéglement	NNR	IDModeRéglement	ATTENTION : la clé IDModeRéglement a pour nouveau nom IDRéglement
+Réglement	Type	RUB+		Type est une nouvelle rubrique
+Réglement	Etat	RUB-		la rubrique Etat est supprimée
+Réglement	valeur	RUB-		la rubrique valeur est supprimée
+facilité		NFI		nouveau fichier
+Contrainte_Réglement_demande		NWL	Réglement (IDRéglement) et demande (IDRéglement)	Nouvelle liaison entre les fichiers Réglement (IDRéglement) et demande (IDRéglement)
+Contrainte_Réglement_facilité		NWL	Réglement (IDRéglement) et facilité (IDRéglement)	Nouvelle liaison entre les fichiers Réglement (IDRéglement) et facilité (IDRéglement)
+Contrainte_demande_facilité		NWL	demande (IDdemande) et facilité (IDdemande)	Nouvelle liaison entre les fichiers demande (IDdemande) et facilité (IDdemande)
+Contrainte_ModeRéglement_demande		DEL	ModeRéglement (IDModeRéglement) et demande (IDModeRéglement)	Liaison supprimée entre les fichiers ModeRéglement (IDModeRéglement) et demande (IDModeRéglement)
+Réglement		FRN		

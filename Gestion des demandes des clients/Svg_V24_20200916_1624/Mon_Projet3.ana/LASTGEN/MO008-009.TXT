@@ -1,0 +1,8 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+client	nom	CLE-*		la rubrique nom n'est plus une clé
+demande		TAR	72	nouvelle taille enregistrement : 72
+demande	IDclient	RUB+		IDclient est une nouvelle clé
+demande	nom	RUB-		la rubrique nom est supprimée
+demande	IDclient	RUB-		la clé IDclient est supprimée
+Contrainte_client_demande		NWL	client (IDclient) et demande (IDclient)	Nouvelle liaison entre les fichiers client (IDclient) et demande (IDclient)
+Contrainte_client_demande		DEL	client (IDclient) et demande (IDclient)	Liaison supprimée entre les fichiers client (IDclient) et demande (IDclient)

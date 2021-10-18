@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+demande		NFI		nouveau fichier
+Contrainte_client_demande		NWL	client (IDclient) et demande (IDclient)	Nouvelle liaison entre les fichiers client (IDclient) et demande (IDclient)

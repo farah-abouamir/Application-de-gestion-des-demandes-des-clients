@@ -1,0 +1,5 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Réglement		TAR	85	nouvelle taille enregistrement : 85
+Réglement	IDModeRéglement	RUB+		IDModeRéglement est une nouvelle clé
+ModeRéglement		NFI		nouveau fichier
+Contrainte_ModeRéglement_Réglement		NWL	ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)	Nouvelle liaison entre les fichiers ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)

@@ -1,0 +1,3 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Etat		NFI		nouveau fichier
+Contrainte_Etat_facilité		NWL	Etat (IDEtat) et facilité (IDEtat)	Nouvelle liaison entre les fichiers Etat (IDEtat) et facilité (IDEtat)

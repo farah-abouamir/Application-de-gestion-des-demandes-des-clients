@@ -1,0 +1,3 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+client		TAR	134	nouvelle taille enregistrement : 134
+client	Telephone	RUB-		la rubrique Telephone est supprimée

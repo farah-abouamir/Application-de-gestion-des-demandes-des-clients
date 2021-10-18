@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+client		TAR	113	nouvelle taille enregistrement : 113
+client	Adresse	RDP+		
+client	Téléphone	RUB-		la rubrique Téléphone est supprimée

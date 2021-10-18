@@ -1,0 +1,4 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+client		TAR	185	nouvelle taille enregistrement : 185
+client	Prenom	RDP+		
+client	CIN	RUB+		CIN est une nouvelle rubrique

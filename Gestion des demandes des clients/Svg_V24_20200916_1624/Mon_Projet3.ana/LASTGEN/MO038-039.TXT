@@ -1,0 +1,4 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+client		TAR	202	nouvelle taille enregistrement : 202
+client	identité	CLEU*		la rubrique identité est maintenant une clé
+client	CIN	RUB-		la clé CIN est supprimée

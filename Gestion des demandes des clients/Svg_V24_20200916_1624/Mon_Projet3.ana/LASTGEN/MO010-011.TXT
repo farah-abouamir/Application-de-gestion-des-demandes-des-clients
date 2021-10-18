@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+client		TAR	134	nouvelle taille enregistrement : 134
+client	Adresse	RDP-		
+client	Telephone	RUB+		Telephone est une nouvelle rubrique
+Contrainte_client_demande		MCL	0,1->1,1	

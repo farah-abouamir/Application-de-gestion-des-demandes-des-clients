@@ -1,0 +1,7 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+demande		TAR	131	nouvelle taille enregistrement : 131
+demande	IDType_demande	RUB+		IDType_demande est une nouvelle clé
+Type_demande		TAR	68	nouvelle taille enregistrement : 68
+Type_demande	IDdemande	RUB-		la clé IDdemande est supprimée
+Contrainte_Type_demande_demande		NWL	Type_demande (IDType_demande) et demande (IDType_demande)	Nouvelle liaison entre les fichiers Type_demande (IDType_demande) et demande (IDType_demande)
+Contrainte_Type_demande_demande		DEL	demande (IDdemande) et Type_demande (IDdemande)	Liaison supprimée entre les fichiers demande (IDdemande) et Type_demande (IDdemande)

@@ -1,0 +1,8 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+demande		TAR	149	nouvelle taille enregistrement : 149
+demande	IDRèglement	RUB+		IDRèglement est une nouvelle clé
+demande	Montant	RUB+		Montant est une nouvelle rubrique
+Réglement		NFI		nouveau fichier
+ModeRéglement		NFI		nouveau fichier
+Contrainte_ModeRéglement_Réglement		NWL	ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)	Nouvelle liaison entre les fichiers ModeRéglement (IDModeRéglement) et Réglement (IDModeRéglement)
+Contrainte_Réglement_demande		NWL	Réglement (IDRéglement) et demande (IDRèglement)	Nouvelle liaison entre les fichiers Réglement (IDRéglement) et demande (IDRèglement)

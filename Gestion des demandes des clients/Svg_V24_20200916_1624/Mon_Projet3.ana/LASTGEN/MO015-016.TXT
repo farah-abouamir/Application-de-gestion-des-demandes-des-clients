@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+client		TAR	155	nouvelle taille enregistrement : 155
+client	CIN	TAI-	30	la rubrique CIN a comme nouvelle taille 21 au lieu de 51

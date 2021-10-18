@@ -1,0 +1,4 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+client		TAR	134	nouvelle taille enregistrement : 134
+client	Prenom	RDP-		
+client	Telephone	RUB-		la rubrique Telephone est supprimée

@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+demande		TAR	80	nouvelle taille enregistrement : 80
+demande	Type_demande	RUB-		la rubrique Type_demande est supprimée

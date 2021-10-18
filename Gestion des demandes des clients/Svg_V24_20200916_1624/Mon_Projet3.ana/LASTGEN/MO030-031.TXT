@@ -1,0 +1,6 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+facilité		TAR	64	nouvelle taille enregistrement : 64
+facilité	IDEtat	RUB+		IDEtat est une nouvelle clé
+facilité	Etat	RUB-		la rubrique Etat est supprimée
+Etat		NFI		nouveau fichier
+Contrainte_Etat_facilité		NWL	Etat (IDEtat) et facilité (IDEtat)	Nouvelle liaison entre les fichiers Etat (IDEtat) et facilité (IDEtat)

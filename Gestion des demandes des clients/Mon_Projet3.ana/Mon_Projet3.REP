@@ -1,0 +1,19 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=3	;Analysis GUID
+LOCALIZATION_UTF8=076AFB730026454F92F0F3FBAAFAD5C1	Type_demande	C:\Mes Projets\Mon_Projet3\Exe\Type_demande.fic
+LOCALIZATION_UTF8=D20D1D63CD1847A08AA96C7B7675A95F	demande	C:\Mes Projets\Mon_Projet3\EXE\demande.fic
+LOCALIZATION_UTF8=CA88B1AFF69541B29C9DEF17CC7E6B0C	Réglement	C:\Mes Projets\Mon_Projet3\Exe\Réglement.fic
+LOCALIZATION_UTF8=E09798A6CB8E4F79A6806362F8B07443	ModeRéglement	C:\Mes Projets\Mon_Projet3\Exe\ModeRéglement.fic
+LOCALIZATION_UTF8=86123DE50DAB479FA8D454CAC25C3A04	client	C:\Mes Projets\Mon_Projet3\EXE\client.fic
+LOCALIZATION_UTF8=319825A9B65B41CE8BD6F45E501FFAB9	Utilisateur	C:\Mes Projets\Mon_Projet3\Exe\Utilisateur.fic
+LOCALIZATION_UTF8=8413D24EFC6440A383C3681F247921BE	ville	C:\Mes Projets\Mon_Projet3\Exe\ville.fic
+LOCALIZATION_UTF8=AB9AC47CDDB14D84903BBE24171FF689	type_identité	C:\Mes Projets\Mon_Projet3\Exe\type_identité.fic
+LOCALIZATION_UTF8=86123DE50DAB479FA8D454CAC25C3A04	client	C:\Mes Projets\Gestion des demandes des clients\EXE\client.fic
+LOCALIZATION_UTF8=8413D24EFC6440A383C3681F247921BE	ville	C:\Mes Projets\Gestion des demandes des clients\EXE\ville.fic
+LOCALIZATION_UTF8=D20D1D63CD1847A08AA96C7B7675A95F	demande	C:\Mes Projets\Gestion des demandes des clients\EXE\demande.fic
+LOCALIZATION_UTF8=076AFB730026454F92F0F3FBAAFAD5C1	Type_demande	C:\Mes Projets\Gestion des demandes des clients\EXE\Type_demande.fic
+LOCALIZATION_UTF8=319825A9B65B41CE8BD6F45E501FFAB9	Utilisateur	C:\Mes Projets\Gestion des demandes des clients\EXE\Utilisateur.fic
+LOCALIZATION_UTF8=373C07DB310642ACAACB3AA5B699165C	Réglement	C:\Mes Projets\Gestion des demandes des clients\EXE\Réglement.fic
+LOCALIZATION_UTF8=E736BB24245D4021AB0EFC5A764848C5	ModeRéglement	C:\Mes Projets\Gestion des demandes des clients\EXE\ModeRéglement.fic
+LOCALIZATION_UTF8=629B3AA557A44A79BF6AC33883B7D9ED	Etat	C:\Mes Projets\Gestion des demandes des clients\EXE\Etat.fic

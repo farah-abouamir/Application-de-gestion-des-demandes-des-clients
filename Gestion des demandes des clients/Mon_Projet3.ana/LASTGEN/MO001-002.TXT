@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+client		TAR	134	nouvelle taille enregistrement : 134
+client	Civilité	RUB-		la rubrique Civilité est supprimée

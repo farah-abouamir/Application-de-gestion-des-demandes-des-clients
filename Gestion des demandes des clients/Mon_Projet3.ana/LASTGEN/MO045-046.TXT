@@ -1,0 +1,5 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+demande		TAR	158	nouvelle taille enregistrement : 158
+demande	IDEtat	RUB+		IDEtat est une nouvelle clé
+Etat		NFI		nouveau fichier
+Contrainte_Etat_demande		NWL	Etat (IDEtat) et demande (IDEtat)	Nouvelle liaison entre les fichiers Etat (IDEtat) et demande (IDEtat)
