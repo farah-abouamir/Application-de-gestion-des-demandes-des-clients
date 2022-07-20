@@ -2,4 +2,4 @@
 Une application desktop qui permet aux agents de gérer les
 demandes des clients.
 
-Technologie: WinDev
+Technologie: WinDev, HFSQL, WLangage
